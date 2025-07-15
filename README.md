@@ -50,6 +50,4 @@ Java Development Intern @ CodeAlpha
 ## Acknowledgement
 This project was developed as part of the Java Development Internship under CodeAlpha.
 
-## Links
-GitHub Repository: https://github.com/your-username/CodeAlpha_AIChatbot
-LinkedIn Post: https://www.linkedin.com/in/your-profile
+
